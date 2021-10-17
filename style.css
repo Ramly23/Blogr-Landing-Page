@@ -237,7 +237,7 @@ header {
     font-family: var(--first-family);
     font-weight: bold;
     text-align: center;
-    font-size: 26px;
+    font-size: 35px;
 }
 
 .row {
@@ -256,7 +256,7 @@ header {
     position: absolute;
     top: 600px;
     width: 40%;
-    right: 100px;
+    right: 0;
 }
 
 .section-text {
@@ -267,7 +267,7 @@ header {
     color: var(--Verydarkblue);
     font-family: var(--first-family);
     font-weight: bold;
-    font-size: 22px;
+    font-size: 25px;
 }
 
 .section-text p {
